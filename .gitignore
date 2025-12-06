@@ -1,0 +1,6 @@
+node_modules
+.env
+workflow.txt
+commands
+.DS_Store
+.vscode
